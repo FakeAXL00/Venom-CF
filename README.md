@@ -9,14 +9,23 @@
 
 # Install: 
 ```
-$ pkg update && pkg upgrade 
+pkg update && pkg upgrade 
 ```
 ```
-$ pkg install python2
+pkg install python2
 ```
 ```
-$ pkg install git
+pkg install git
 ```
 ```
-$ git clone https://github.com/FakeAXL00/Venom-CF
+git clone https://github.com/FakeAXL00/Venom-CF
+```
+```
+cd Venom-CF
+```
+```
+pip install -r venom.cf
+```
+```
+python venom-cf.py
 ```
