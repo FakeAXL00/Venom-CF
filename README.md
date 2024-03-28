@@ -46,3 +46,10 @@ python2 venom-cf.py
 [ 07 ] .cek hasil crack 
 
 [ 00 ] .keluar (hapus token)
+
+# Metode :
+[ 01 ] .methode b-api (crack cepat) 
+
+[ 02 ] .methode mbasic (crack lambat) 
+
+[ 03 ] .methode mobile (crack sangat lambat)
