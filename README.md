@@ -24,8 +24,25 @@ git clone https://github.com/FakeAXL00/Venom-CF
 cd Venom-CF
 ```
 ```
-pip install -r venom.cf
+pip2 install -r venom.cf
 ```
 ```
-python venom-cf.py
+python2 venom-cf.py
 ```
+
+# Info :
+[ 01 ] .dump id public 
+
+[ 02 ] .dump id followers 
+
+[ 03 ] .dump id reaction post 
+
+[ 04 ] .crack cari nama (Instagram) 
+
+[ 05 ] .start crack 
+
+[ 06 ] .ganti user agent 
+
+[ 07 ] .cek hasil crack 
+
+[ 00 ] .keluar (hapus token)
